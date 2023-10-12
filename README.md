@@ -106,7 +106,8 @@ A Java & Python Developer, Minecraft Player.
 </p>
 
 ------
-
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanosy&theme=xcode" /> </div>
+------
 ### 📫 Contact Me
 
 If you want to contact me, the most efficient way is to send emails to me. I will check my inbox every 4 to 5 hours, so you should get my response pretty quickly unless the mail system moves your message to the junk box, which I usually will clear directly after a quick check every week (so it's possible that I can't even see your email before it got deleted).
@@ -138,4 +139,4 @@ You can also sponsor me on [`GitHub`](https://github.com/sponsors/Cubik65536) or
   &nbsp;
   <a href="https://www.buymeacoffee.com/cubik65536"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=cubik65536&button_colour=577281&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" width="auto" height="40" /></a>
 </p>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanosy&theme=xcode" /> </div>
+
