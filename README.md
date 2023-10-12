@@ -16,6 +16,7 @@ A Java & Python Developer, Minecraft Player.
   </a>
 
   <br/>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanosy&theme=xcode" /> </div>
 
   <a href="https://github.com/SlopeCraft">
     <img src="https://assets.cubik65536.top/SlopeCraft-Maintainer-Badge.svg" style="display: inline-block" />
@@ -106,8 +107,7 @@ A Java & Python Developer, Minecraft Player.
 </p>
 
 ------
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanosy&theme=xcode" /> </div>
-------
+
 ### 📫 Contact Me
 
 If you want to contact me, the most efficient way is to send emails to me. I will check my inbox every 4 to 5 hours, so you should get my response pretty quickly unless the mail system moves your message to the junk box, which I usually will clear directly after a quick check every week (so it's possible that I can't even see your email before it got deleted).
