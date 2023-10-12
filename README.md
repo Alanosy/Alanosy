@@ -8,7 +8,7 @@ A Java & Python Developer, Minecraft Player.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alanosy&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <p>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yang-tian-hub&theme=xcode" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanosy&theme=xcode" /> </div>
 </p>
 <p>
   <a href="https://ixor.tech">
