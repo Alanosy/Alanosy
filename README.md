@@ -1,6 +1,6 @@
 ## Hi there, I'm Alan 👋
 
-<a href="https://www.alan.org.cn"><img src="https://img.shields.io/website?ddown_message=Offline&label=cubik65536.top&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.alan.org.cn" width="auto" height="32"></a>
+<a href="https://www.alan.org.cn"><img src="https://img.shields.io/website?ddown_message=Offline&label=alan.org.cn&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.alan.org.cn" width="auto" height="32"></a>
 
 A Java & Python Developer, Minecraft Player.
 <p>
