@@ -4,7 +4,7 @@
 
 A Java & Python Developer, Minecraft Player.
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Alanosy&show_icons=true&theme=tokyonight" /> </div>
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Alanosy&show_icons=true&theme=tokyonight" /> </div>
 
 
 <p>
@@ -109,23 +109,13 @@ A Java & Python Developer, Minecraft Player.
 
 ### 📫 Contact Me
 
-[![PGP Fingerprint](https://img.shields.io/badge/My%20PGP%20Fingerprint-DDB3%202000%20DDDF%203D48-%23FA7343?style=for-the-badge)](./pgp-public-key.asc)
- > Click on the badge to see my public key!
-
 If you want to contact me, the most efficient way is to send emails to me. I will check my inbox every 4 to 5 hours, so you should get my response pretty quickly unless the mail system moves your message to the junk box, which I usually will clear directly after a quick check every week (so it's possible that I can't even see your email before it got deleted).
 
-[![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-me%40cubik65536.top-%2357728B?style=for-the-badge)](mailto:me@cubik65536.top)
+[![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-me%40aliyun.com-%2357728B?style=for-the-badge)](mailto:alanos@aliyun.com)
 
 > **If you have not got my reply for a long time, check your junk box!**
 
-*I will **ALWAYS** use my PGP signature when I reply or send messages with my email, and I will **ALWAYS** encrypt my message when I reply to an **encrypted** message.*
-
 **If you received a reply message but was not signed with `DDB3 2000 DDDF 3D48`, it is very likely that the message was not sent by me unless I publicly revoked `DDB3 2000 DDDF 3D48` and changed my keys. Please refer to [My PGP](/my-pgp.md) page for more information.**
-
-> [!WARNING]
-> My PGP key having the fingerprint `FFA7 DB11 3223 8420` is **NO LONGER VALID** since 2023/09/25.
-
-**[Download my PGP Public Key](https://keys.openpgp.org/vks/v1/by-fingerprint/F9CBDDD99B6043914632B9D8DDB32000DDDF3D48)**
 
 ------
 
