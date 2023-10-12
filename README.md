@@ -93,8 +93,6 @@ Thanks to [`wngamebox`](https://wngamebox.cn) & [@JohnsonRan](https://github.com
 You can also sponsor me on [`GitHub`](https://github.com/sponsors/Cubik65536) or [`by me a coffee`](https://www.buymeacoffee.com/cubik65536) so that your name will be also on the list!
 
 <p>
-  <a href="https://github.com/sponsors/Cubik65536"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" width="auto" height="40" /></a>
-  &nbsp;
-  <a href="https://www.buymeacoffee.com/cubik65536"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=cubik65536&button_colour=577281&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" width="auto" height="40" /></a>
+  <a href="https://www.buymeacoffee.com/alanos"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=cubik65536&button_colour=577281&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" width="auto" height="40" /></a>
 </p>
 
