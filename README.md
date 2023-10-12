@@ -78,17 +78,7 @@ If you want to contact me, the most efficient way is to send emails to me. I wil
 
 ------
 
-## 🎉 Thanks
-
-Thanks to [`wngamebox`](https://wngamebox.cn) & [@JohnsonRan](https://github.com/JohnsonRan) for providing me network and computing resources
-
-**A HUGE thanks to my sponsors down below! You guys will help me to go even further!** 
-
 ### Sponsors
-
->
-> 🏅 [@KevinZonda](https://github.com/KevinZonda)
->
 
 You can also sponsor me on [`GitHub`](https://github.com/sponsors/Cubik65536) or [`by me a coffee`](https://www.buymeacoffee.com/cubik65536) so that your name will be also on the list!
 
