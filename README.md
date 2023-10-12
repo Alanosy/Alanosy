@@ -74,8 +74,6 @@ If you want to contact me, the most efficient way is to send emails to me. I wil
 
 > **If you have not got my reply for a long time, check your junk box!**
 
-**If you received a reply message but was not signed with `DDB3 2000 DDDF 3D48`, it is very likely that the message was not sent by me unless I publicly revoked `DDB3 2000 DDDF 3D48` and changed my keys. Please refer to [My PGP](/my-pgp.md) page for more information.**
-
 ------
 
 ### Sponsors
