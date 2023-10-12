@@ -1,8 +1,8 @@
-## Hi there, I'm Cubik 👋
+## Hi there, I'm Alan 👋
 
 <a href="https://www.cubik65536.top"><img src="https://img.shields.io/website?ddown_message=Offline&label=cubik65536.top&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.cubik65536.top" width="auto" height="32"></a>
 
-A Java & Kotlin & Python & Swift Developer, Minecraft Player.
+A Java & Python Developer, Minecraft Player.
 
 <p>
   <a href="https://ixor.tech">
