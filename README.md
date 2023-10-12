@@ -6,7 +6,6 @@ A Java & Python Developer, Minecraft Player.
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Alanosy&show_icons=true&theme=tokyonight" /> </div>
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanosy&theme=xcode" /> </div>
 
 <p>
   <a href="https://ixor.tech">
@@ -149,3 +148,4 @@ You can also sponsor me on [`GitHub`](https://github.com/sponsors/Cubik65536) or
   &nbsp;
   <a href="https://www.buymeacoffee.com/cubik65536"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=cubik65536&button_colour=577281&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" width="auto" height="40" /></a>
 </p>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanosy&theme=xcode" /> </div>
