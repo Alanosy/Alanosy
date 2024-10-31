@@ -70,7 +70,7 @@ A Java & Python Developer, Minecraft Player.
 
 If you want to contact me, the most efficient way is to send emails to me. I will check my inbox every 4 to 5 hours, so you should get my response pretty quickly unless the mail system moves your message to the junk box, which I usually will clear directly after a quick check every week (so it's possible that I can't even see your email before it got deleted).
 
-[![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-me%40aliyun.com-%2357728B?style=for-the-badge)](mailto:alanos@aliyun.com)
+[![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-me%40aliyun.com-%2357728B?style=for-the-badge)](mailto:fignet@163.com)
 
 > **If you have not got my reply for a long time, check your junk box!**
 
