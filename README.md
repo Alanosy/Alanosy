@@ -4,7 +4,7 @@
 
 A Java & Python Developer, Minecraft Player.
 
-<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Alanosy&show_icons=true&theme=tokyonight" /> </div>
+<div align="left"> <img src="https://stats.alan.org.cn/api?username=Alanosy&show_icons=true&theme=tokyonight" /> </div>
 
 
 <p>
